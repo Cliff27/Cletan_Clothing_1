@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111840090668",
+    "project_id": "cletan-clothing-38080",
+    "storage_bucket": "cletan-clothing-38080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111840090668:android:b8acb84f2e7e00c95f8f89",
+        "android_client_info": {
+          "package_name": "com.example.cletanclothing1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111840090668-54u4d4r2i6mtn0q9hn1kji7ernjviecg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnd-D20lUVj1xv2P7rzYUdbBwAwFwgHEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111840090668-54u4d4r2i6mtn0q9hn1kji7ernjviecg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

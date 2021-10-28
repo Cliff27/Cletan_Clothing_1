@@ -1,0 +1,2 @@
+rootProject.name = "Cletan Clothing 1"
+include ':app'
